@@ -9,3 +9,5 @@ variable specify device=gpu, it will
 Installation
 
 pip install git+ssh://git@github.com/temporaer/gpuselect@master#egg=gpuselect
+
+apt-get install libboost-python1.58-dev libpython2.7
